@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "蜃気楼ニ問フ",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-02-07T15:00:23.411156Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蜃気楼ニ問フ",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_蜃気楼ニ問フ_トゲナシトゲアリ.txt"
+    }
+  ]
+}
